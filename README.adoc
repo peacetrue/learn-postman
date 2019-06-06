@@ -1,0 +1,31 @@
+= 学习postman
+peacetrue
+v1.0, 2019-06-06: SNAPSHOT
+:doctype: docbook
+:toc: left
+:numbered:
+:imagesdir: assets/images
+:sourcedir: ../src/main/java
+:resourcesdir: ../src/main/resources
+:testsourcedir: ../src/test/java
+:source-highlighter: coderay
+:coderay-linenums-mode: inline
+
+* 官网地址： https://www.getpostman.com/
+* 文档地址： https://learning.getpostman.com/
+* Postman Concepts： https://learning.getpostman.com/concepts
+
+Postman Concepts 比较重要，从它开始。
+
+== 教程
+=== Tests and Scripts
+
+== 场景
+=== jsessionid
+一般通过 jsessionid 保持会话，
+希望能够在登录后，自动将 jsessionid 添加到环境变量中。
+执行其他请求时，自动添加 jsessionid 参数。
+
+
+
+
